@@ -1,0 +1,155 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.menu{
+	text-align: center;
+	border-bottom: 1px solid red;
+}
+.menu ul{
+	list-style-type: none;
+	background-color:#009432 ;
+
+}
+.menu ul li{
+	display: inline;
+	padding: 2%;
+    background-color: #009432;
+}
+.menu ul li a{
+	text-decoration: none;
+	font-weight: bold;
+	color: #ff6b81;
+    
+}
+.menu ul li a:hover{
+	color: #3742fa;
+
+}
+.maincontent{	
+    background-color:#778ca3;  
+    padding: 2% 0; 
+
+}
+.col4{
+	width:18% ;
+	background-color: #f7b731;
+	margin: 1%;
+	padding: 2%;
+	float: left;
+	font-weight: bolder;
+}
+h1{
+	background-color: #ff6b81;
+	text-align: center;
+}
+.tblf{
+	width: 100%;	
+	font-weight: bold;
+	padding: 2px;
+	text-align: center;
+}
+
+table tr th{
+	border-bottom: 2px solid black;
+	padding: 2%;
+	text-align: center;
+	background-color:#fa8231;
+
+	
+   	
+}
+table tr td{
+	padding: 2%;
+	text-align: center;
+	
+}
+.btn-primary{
+	background-color:#fed330;
+	padding: 2%;
+	color:#eb3b5a ;
+	text-decoration: none;
+	
+}
+.btn-primary:hover{
+	background-color: #3742fa;
+}
+.btn-secondary{
+	background-color:#009432 ;
+	padding: 2%;
+	color: white;
+	text-decoration: none;
+	}
+.btn-secondary:hover{
+	background-color: #2f3542;
+}
+.success{
+	color: #2c3e50;
+	background-color: #f1c40f;
+	
+}
+.error{
+	color: #c0392b;
+	background-color: #27ae60;
+	text-align: center;
+
+}
+
+
+.btn-danger{
+	background-color:#F79F1F ;
+	padding: 2%;
+	color: white;
+	text-decoration: none;
+	
+}
+.btn-danger:hover{
+	background-color: #ff4757;
+}
+.tbl-30{
+	width: 90%;
+	padding: 2%;
+}
+
+.siz{
+	color: green;
+	
+}
+
+.wrapper{
+
+padding: 2%;
+width: 100%;
+margin: 0 auto;
+
+}
+.tcenter{
+	text-align: center;
+}
+.text-center{
+	text-align: center;
+
+}
+.clearfix{
+	float: none;
+	clear: both;
+}
+.footer{
+	background-color: #ff4757;
+}
+.login{
+	width: 50%;
+	border: 7px double #ff4757;
+	text-align: center;
+	margin: 5% auto;
+	padding: 2%;
+	font-weight: bolder;
+	background-color: #fa8231;
+
+}
+.tbl2{
+	text-align: center;
+	width: 100%;
+	background-color:#fa8231 ;
+}
